@@ -1,1 +1,2 @@
-hello my friend. this is test message
+hello my friend. this is test message 
+from server
